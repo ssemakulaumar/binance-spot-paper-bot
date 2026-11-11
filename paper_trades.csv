@@ -1,0 +1,2 @@
+time,symbol,side,quantity,price,fee,realized_pnl,reason
+2026-11-11T20:17:40.372997+00:00,BTCUSDT,BUY,0.0013392936144518228,74591.56,0.1,0.0,strategy signal
